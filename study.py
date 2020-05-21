@@ -1,1 +1,2 @@
-print("112")
+message =("hello word")
+print(message)
